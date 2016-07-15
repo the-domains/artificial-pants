@@ -1,0 +1,14 @@
+layout_spectrum: 0.49613491469062865
+typography_spectrum: 0.3669925555586815
+color:
+  brandStrength: 0.9506214344874024
+  lightness: 0.5505774097982794
+  saturation: 0.9958405080251396
+  rhythmicContrast: 0.044809077866375446
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: artificial pants
